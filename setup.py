@@ -395,7 +395,26 @@ REACHED = [
   'martin_lasek',
   'pinos',
   'girlknowstech',
-  'englishwithadriana'
+  'englishwithadriana',
+  '_worldoftech',
+  'thepalepaper',
+  'kookie.studying',
+  'programmerplus',
+  'teenprogrammer',
+  'note.sworthy',
+  'miguelsoler1',
+  'olga.kolgusheva',
+  'programmerhits',
+  'subhanabrata_mondal',
+  'funnydevcom',
+  'gadget_feed',
+  'ebrareroglu291',
+  'tamstudytime',
+  'igmillionaries',
+  'mariaszumowska',
+  'angellnotes',
+  'eocvetnursing',
+  'studyyrhino'
 ]
 
 ANSWERED = [
@@ -451,6 +470,7 @@ ANSWERED = [
   'martin_lasek',
   'pinos',
   'girlknowstech',
+  'note.sworthy',
 ]
 
 IGNORED = []
