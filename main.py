@@ -16,8 +16,9 @@ TAGS = [
   'softwareengineering',
   'webdesign',
   'uxui',
-  'deepwork',
   'coding',
+  'studying',
+  'studyingtips',
   'programmer',
   'examprep',
   'university'
