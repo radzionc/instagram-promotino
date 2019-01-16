@@ -6,27 +6,12 @@ import sys
 import random
 
 from instagram import Instagram
-
-TAGS = [
-  'programming',
-  'productivity',
-  'uxdesign',
-  'pomodorotechnique',
-  'studyinghard',
-  'softwareengineering',
-  'webdesign',
-  'uxui',
-  'coding',
-  'studying',
-  'studyingtips',
-  'programmer',
-  'examprep',
-  'university'
-]
+from constants import TAGS
 
 with open('state.json') as f:
   state = json.load(f)
 
+# get parameters: password and number of peoples to reach
 password = os.environ.get('INSTAGRAM_PASSWORD')
 if not password:
   password = getpass.getpass('Password: ')
@@ -35,15 +20,15 @@ users_to_follow_number = 20
 if len(sys.argv) > 1 and sys.argv[1]:
   users_to_follow_number = int(sys.argv[1])
 
+# initialize session
 session = Instagram('geekrodion', password)
 session.login()
 session.logger.setLevel(logging.WARNING)
 
-
-
-
+# prepare tags
 tags = TAGS.copy()
 random.shuffle(tags)
+
 
 users = []
 no_touch_users = state['ignored'] + [user['username'] for user in state['reached']]
@@ -84,6 +69,13 @@ for index, user in enumerate(users):
         
       break
 
-with open('state.json', 'w') as f:
-  json.dump(state, f, indent=4)
+try:
+  with open('state.json', 'w') as f:
+    json.dump(state, f, indent=4)
+except:
+  print('fail to write json in state.json')
+  with open('new_state.json', 'w') as f:
+    json.dump(state, f, indent=4)
+  print('find new state in new_state.json')
+  
 session.unfollow_users_list(usernames)

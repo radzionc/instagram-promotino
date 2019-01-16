@@ -3498,6 +3498,78 @@
                 "#dribbble",
                 "#behance"
             ]
+        },
+        {
+            "username": "fhinsights",
+            "tags": [ ]
+        },
+        {
+            "username": "tobionlenic",
+            "tags": [ ]
+        },
+        {
+            "username": "inspirationfordesigners",
+            "tags": [ ]
+        },
+        {
+            "username": "kleversonmorais",
+            "tags": [ ]
+        },
+        {
+            "username": "uxflavors",
+            "tags": [ ]
+        },
+        {
+            "username": "the_paul_gray_page",
+            "tags": [ ]
+        },
+        {
+            "username": "livewirehq",
+            "tags": [ ]
+        },
+        {
+            "username": "training_with_impact",
+            "tags": [ ]
+        },
+        {
+            "username": "jeanettebronee",
+            "tags": [ ]
+        },
+        {
+            "username": "studyfeature",
+            "tags": [ ]
+        },
+        {
+            "username": "unwind.ng",
+            "tags": [ ]
+        },
+        {
+            "username": "nsgs_gsu",
+            "tags": [ ]
+        },
+        {
+            "username": "el.leveated",
+            "tags": [ ]
+        },
+        {
+            "username": "collegestudyinghacks",
+            "tags": [ ]
+        },
+        {
+            "username": "scholarproblems",
+            "tags": [ ]
+        },
+        {
+            "username": "carealtytraining",
+            "tags": [ ]
+        },
+        {
+            "username": "schooltipsyay",
+            "tags": [ ]
+        },
+        {
+            "username": "eng_guide",
+            "tags": [ ]
         }
     ],
     "ignored": [
@@ -3572,6 +3644,8 @@
         "girlknowstech",
         "gadget_feed",
         "note.sworthy",
-        "kookie.studying"
+        "kookie.studying",
+        "thisismydesk",
+        "coderhumor"
     ]
 }
