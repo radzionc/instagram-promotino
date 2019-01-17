@@ -3501,75 +3501,367 @@
         },
         {
             "username": "fhinsights",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "tobionlenic",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "inspirationfordesigners",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "kleversonmorais",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "uxflavors",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "the_paul_gray_page",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "livewirehq",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "training_with_impact",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "jeanettebronee",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "studyfeature",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "unwind.ng",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "nsgs_gsu",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "el.leveated",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "collegestudyinghacks",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "scholarproblems",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "carealtytraining",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "schooltipsyay",
-            "tags": [ ]
+            "tags": []
         },
         {
             "username": "eng_guide",
-            "tags": [ ]
+            "tags": []
+        },
+        {
+            "username": "planneraddict7",
+            "tags": [
+                "#inspiration",
+                "#plannercommunity",
+                "#planing",
+                "#stickerbomb",
+                "#pinkplanning",
+                "#planwithme",
+                "#planneraddict",
+                "#plan",
+                "#prettyplanning",
+                "#planningtime",
+                "#inspiration",
+                "#loveplanning",
+                "#dailyplanning",
+                "#plans",
+                "#planningpractice",
+                "#pink",
+                "#inspiration",
+                "#lovepink",
+                "#organization",
+                "#planners"
+            ]
+        },
+        {
+            "username": "straight.plans",
+            "tags": [
+                "#hobonichitecho",
+                "#hobonichi",
+                "#hobonichi1101",
+                "#quote",
+                "#hobonichitechoa6",
+                "#diary",
+                "#journaling",
+                "#hobonichitecho2019",
+                "#hononichilove",
+                "#hobonichiplanner",
+                "#travelersnotebook",
+                "#travelersnotebooks",
+                "#hobonichioriginal",
+                "#Bulletjournal",
+                "#planwithme",
+                "#plannergirl",
+                "#planwithmechallenge",
+                "#dailyplanning",
+                "#bulletjournalweeklylog",
+                "#plannerlove",
+                "#minimalistplanner",
+                "#minimalistbujo",
+                "#bulletjournalcommunity",
+                "#bulletjournalinspiration",
+                "#austrianblogger",
+                "#blogger_at",
+                "#journaling"
+            ]
+        },
+        {
+            "username": "bunnyplans",
+            "tags": []
+        },
+        {
+            "username": "love.and.doodles",
+            "tags": []
+        },
+        {
+            "username": "dailytechshow",
+            "tags": [
+                "#Dailytechshow",
+                "#Engineering",
+                "#technology",
+                "#3d",
+                "#worldofengineering",
+                "#mechanicalengineering",
+                "#electricalengineering",
+                "#softwareengineering",
+                "#science",
+                "#3dprint",
+                "#viralvideos",
+                "#satisfyingvideos",
+                "#3dprinted",
+                "#processing",
+                "#futuristic",
+                "#processporn",
+                "#howitwdone",
+                "#automotive",
+                "#engineers",
+                "#automobile",
+                "#engineeringstudents",
+                "#engineeringlife",
+                "#engineporn",
+                "#manufacturing",
+                "#technologies"
+            ]
+        },
+        {
+            "username": "mohamed_3mara",
+            "tags": [
+                "#M_AZIEM",
+                "#softwareengineer",
+                "#softwareengineering",
+                "#developer",
+                "#development",
+                "#webdesign",
+                "#webdesigner",
+                "#fullstack",
+                "#fullstackdeveloper",
+                "#code",
+                "#coding",
+                "#ios",
+                "#programming",
+                "#html5",
+                "#css",
+                "#javascript",
+                "#codelife",
+                "#android",
+                "#laravel",
+                "#programmer",
+                "#proud_programmers",
+                "#programmerlife",
+                "#marketing",
+                "#seo",
+                "#php",
+                "#digitalmarketing",
+                "#design",
+                "#engineering"
+            ]
+        },
+        {
+            "username": "factnik_",
+            "tags": [
+                "#factnik",
+                "#facts",
+                "#knowledge",
+                "#japan",
+                "#stamps",
+                "#hanko",
+                "#achievement",
+                "#engineering",
+                "#engineer",
+                "#worldofengineering",
+                "#howitsdone",
+                "#instadaily",
+                "#engineeringporn",
+                "#softwareengineering",
+                "#satisfying",
+                "#viral",
+                "#invention",
+                "#innovation",
+                "#science",
+                "#railroadtracks",
+                "#technology",
+                "#viralvideos",
+                "#techworld",
+                "#",
+                "#sher",
+                "#mee",
+                "#"
+            ]
+        },
+        {
+            "username": "programming_stories",
+            "tags": [
+                "#Repost",
+                "#programmer",
+                "#coding",
+                "#developer",
+                "#programming",
+                "#codinglife",
+                "#alexboostyou",
+                "#alex365days",
+                "#development",
+                "#macbook",
+                "#love",
+                "#coffe",
+                "#softwareengineering",
+                "#developerslife",
+                "#webdevelopment",
+                "#hacking",
+                "#freelance",
+                "#tech",
+                "#react",
+                "#worldcode",
+                "#hustle",
+                "#programmerrepublic",
+                "#code",
+                "#fun",
+                "#inspiration",
+                "#buildtheweb"
+            ]
+        },
+        {
+            "username": "shitnglitters",
+            "tags": [
+                "#exams",
+                "#unilife",
+                "#universitystudent",
+                "#czechstudent",
+                "#ethnic",
+                "#glassearrings",
+                "#glass",
+                "#plants",
+                "#gardener",
+                "#barelyalive",
+                "#student",
+                "#cactus",
+                "#gogreen",
+                "#ethno",
+                "#colorful",
+                "#bangs",
+                "#fringe",
+                "#motd",
+                "#lotd",
+                "#ootd",
+                "#makeup",
+                "#lipgloss",
+                "#czechgirl",
+                "#comeback",
+                "#examprep",
+                "#examperiod",
+                "#fff",
+                "#f4f"
+            ]
+        },
+        {
+            "username": "_mrsopoulos",
+            "tags": [
+                "#examprep"
+            ]
+        },
+        {
+            "username": "arbor_prep",
+            "tags": [
+                "#apes",
+                "#collegeboundgatorproud",
+                "#examprep"
+            ]
+        },
+        {
+            "username": "sylvan.ct",
+            "tags": [
+                "#education",
+                "#stem",
+                "#satprep",
+                "#examprep",
+                "#actprep",
+                "#tutoring",
+                "#tutoringservice",
+                "#sylvanlearning",
+                "#brookfieldct",
+                "#danburyct",
+                "#newtown",
+                "#newmilford",
+                "#newfairfield",
+                "#Carmel",
+                "#learning"
+            ]
+        },
+        {
+            "username": "allthingsgamsat",
+            "tags": [
+                "#studentsofmedicine",
+                "#medicine",
+                "#medstudent",
+                "#australianuniversity",
+                "#ireland",
+                "#uk",
+                "#australia",
+                "#umat",
+                "#gamsat",
+                "#examprep",
+                "#sydney",
+                "#universitystudents",
+                "#studytips",
+                "#examtips",
+                "#preparation",
+                "#allthingsgamsat",
+                "#gamsatstudy",
+                "#gamsat2019",
+                "#gamsat2018",
+                "#gamsatstudy",
+                "#chemistrynotes",
+                "#chemistry_lab",
+                "#dentistas",
+                "#oralsurgeon",
+                "#dentistryworld",
+                "#chemistry",
+                "#compounds",
+                "#organiccompounds",
+                "#gamsat"
+            ]
         }
     ],
     "ignored": [
@@ -3587,7 +3879,14 @@
         "fitterapia_esztergom",
         "robertsteinbacher",
         "innerbeautymovement",
-        "wunderdogs.co"
+        "wunderdogs.co",
+        "planneraddictbritt",
+        "sna.study",
+        "gcse_meme_",
+        "school_memes.2019",
+        "mishaq",
+        "skincaree.tips",
+        "studyquill"
     ],
     "answered": [
         "stolinski",
@@ -3646,6 +3945,8 @@
         "note.sworthy",
         "kookie.studying",
         "thisismydesk",
-        "coderhumor"
+        "coderhumor",
+        "codedad",
+        "nsgs_gsu"
     ]
 }
