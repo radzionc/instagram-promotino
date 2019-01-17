@@ -11,7 +11,7 @@ TAGS = [
   'studying',
   'studyingtips',
   'programmer',
-  'university',
+  'university',r
   'writingcommunity',
   'udemy',
   'onlinebusiness',

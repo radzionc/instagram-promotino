@@ -3862,6 +3862,251 @@
                 "#organiccompounds",
                 "#gamsat"
             ]
+        },
+        {
+            "username": "rahel.gold",
+            "tags": [
+                "#bulletjournal",
+                "#bulletjournalgermany",
+                "#bulletjournalweeklylog",
+                "#bulletjournalweekly",
+                "#bulletjournalweeklyspread",
+                "#bulletjournalmom",
+                "#bulletjournaljunkies",
+                "#bulletjournallovers",
+                "#bujo",
+                "#bujoweeklyspread",
+                "#bujoweekly",
+                "#bujogermany",
+                "#bujomom",
+                "#bujoaddicts",
+                "#bujolovers",
+                "#plannergirls",
+                "#gettingthingsdone",
+                "#bulletjournalss"
+            ]
+        },
+        {
+            "username": "bastianaltendorfer",
+            "tags": [
+                "#gettingthingsdone"
+            ]
+        },
+        {
+            "username": "gtdtimes",
+            "tags": [
+                "#gtd",
+                "#gettingthingsdone",
+                "#davidallen"
+            ]
+        },
+        {
+            "username": "mashaplans",
+            "tags": [
+                "#bujoweekly",
+                "#bujoweeklyspread",
+                "#bulletjournalweekly",
+                "#bulletjournalweeklylog",
+                "#afterthepen",
+                "#weeklyspread",
+                "#weeklylog",
+                "#weeklytracker",
+                "#wearebujo",
+                "#bujogirl",
+                "#bujoinspo",
+                "#bulletjournalspread",
+                "#bulletjournalers",
+                "#bulletjournalsetup",
+                "#bulletjournaling",
+                "#bulletjournallove",
+                "#bulletjournaladdicts",
+                "#bujoaddicts",
+                "#plannernerd",
+                "#planyourweek",
+                "#gettingthingsdone",
+                "#journaling",
+                "#planningcommunity",
+                "#bujogram",
+                "#mashaplans",
+                "#nuuna",
+                "#bulletjournals",
+                "#discoverbulletjournal"
+            ]
+        },
+        {
+            "username": "supermassiveblackink",
+            "tags": []
+        },
+        {
+            "username": "ideadevelopers",
+            "tags": [
+                "#ideadevelopers",
+                "#programming",
+                "#programmers",
+                "#programmer",
+                "#tech",
+                "#technology",
+                "#code",
+                "#coding",
+                "#softwaredeveloper",
+                "#webdeveloper",
+                "#pcgaming",
+                "#pcgamer",
+                "#geek",
+                "#computers",
+                "#machinelearning",
+                "#development"
+            ]
+        },
+        {
+            "username": "code_gency",
+            "tags": [
+                "#services",
+                "#programming",
+                "#engineer",
+                "#developersinmumbai",
+                "#wordpress",
+                "#webdevelopment",
+                "#webdeveloper",
+                "#agency",
+                "#developer",
+                "#software",
+                "#computing",
+                "#computer",
+                "#like4like",
+                "#socialmedia",
+                "#instagood",
+                "#seo",
+                "#technology",
+                "#tech",
+                "#cms",
+                "#maintenance",
+                "#marketingdigital",
+                "#programmer",
+                "#developerdiaries",
+                "#freelancers",
+                "#company",
+                "#codegency",
+                "#javascriptdeveloper",
+                "#iphone",
+                "#c"
+            ]
+        },
+        {
+            "username": "rayan.sherkawii",
+            "tags": [
+                "#programming",
+                "#programmingisfun",
+                "#programmingmemes",
+                "#developer",
+                "#codinglife",
+                "#coding",
+                "#developers",
+                "#webdeveloper",
+                "#java",
+                "#javascript",
+                "#sql",
+                "#python",
+                "#webdesign",
+                "#learntocode",
+                "#hacking",
+                "#hacker",
+                "#geek",
+                "#nerd",
+                "#linux",
+                "#kalilinux",
+                "#technology",
+                "#tech",
+                "#engineer",
+                "#engineeringstudent",
+                "#computer",
+                "#websites",
+                "#website",
+                "#geeksport",
+                "#algorithm",
+                "#algo"
+            ]
+        },
+        {
+            "username": "kadin.yazilimci",
+            "tags": [
+                "#softwaredeveloper",
+                "#software",
+                "#developer",
+                "#engineer",
+                "#muhendis",
+                "#coder",
+                "#coding",
+                "#code",
+                "#programmer",
+                "#programming",
+                "#women",
+                "#girl",
+                "#webdevelopers",
+                "#php",
+                "#codeigniter",
+                "#kodlama",
+                "#bilgisayar",
+                "#programlama",
+                "#computer",
+                "#kadinyazilimci",
+                "#csharp",
+                "#android",
+                "#java",
+                "#robotics",
+                "#yaz\u0131l\u0131mm\u00fchendisli\u011fi",
+                "#kadin"
+            ]
+        },
+        {
+            "username": "neuralnetmemes",
+            "tags": []
+        },
+        {
+            "username": "ritsumeikanapu",
+            "tags": [
+                "#10yearchallenge",
+                "#ShapeYourWorldAPU",
+                "#RitsumeikanAsiaPacificUniversity",
+                "#\u7acb\u547d\u9928\u30a2\u30b8\u30a2\u592a\u5e73\u6d0b\u5927\u5b66",
+                "#university",
+                "#\u5927\u5b66",
+                "#studyabroad",
+                "#\u7559\u5b66"
+            ]
+        },
+        {
+            "username": "studenthacks.ch",
+            "tags": [
+                "#studentlife",
+                "#student",
+                "#college",
+                "#studying",
+                "#school",
+                "#lecture",
+                "#university",
+                "#study",
+                "#studymotivation",
+                "#studynotes",
+                "#studywithme",
+                "#examtips",
+                "#artschool",
+                "#studygram",
+                "#studyspace",
+                "#studyinspo",
+                "#studyrama",
+                "#collegememes",
+                "#fratparty",
+                "#collegegirls",
+                "#collegebabes",
+                "#collegedays",
+                "#collegememes",
+                "#studywithme",
+                "#studentmemes",
+                "#memesdaily",
+                "#studentlife",
+                "#collegelife"
+            ]
         }
     ],
     "ignored": [
@@ -3886,7 +4131,15 @@
         "school_memes.2019",
         "mishaq",
         "skincaree.tips",
-        "studyquill"
+        "studyquill",
+        "hannahbarker_hair",
+        "miuvermillion",
+        "instasocialconnector",
+        "brendajayne",
+        "francois335",
+        "crossfitunmarked",
+        "apple_fanboy_2019",
+        "giocoke70"
     ],
     "answered": [
         "stolinski",
@@ -3947,6 +4200,8 @@
         "thisismydesk",
         "coderhumor",
         "codedad",
-        "nsgs_gsu"
+        "nsgs_gsu",
+        "itsiglika",
+        "simplistic_studies"
     ]
 }
