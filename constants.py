@@ -15,7 +15,6 @@ TAGS = [
   'itjobs',
   'geeklife',
   'office',
-  'officespace',
   'digitalnomad',
   'digitalnomads',
   'digitalnomadlife',
@@ -29,7 +28,6 @@ TAGS = [
   'studyinspiration',
   'studymotivation',
   'study_time',
-  'gettingthingsdone',
   'goalplanning',
   'research'
 ]
