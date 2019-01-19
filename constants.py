@@ -14,7 +14,6 @@ TAGS = [
   'university',
   'itjobs',
   'geeklife',
-  'office',
   'digitalnomad',
   'digitalnomads',
   'digitalnomadlife',
