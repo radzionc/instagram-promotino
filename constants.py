@@ -28,5 +28,14 @@ TAGS = [
   'studymotivation',
   'study_time',
   'goalplanning',
-  'research'
+  'research',
+  'freelance',
+  'freelancewriter',
+  'freelancegraphicdesigner',
+  'freelancer',
+  'freelancers',
+  'freelancedesign',
+  'freelancelife',
+  'freelancework'
 ]
+
