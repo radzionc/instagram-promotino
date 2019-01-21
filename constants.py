@@ -36,6 +36,11 @@ TAGS = [
   'freelancers',
   'freelancedesign',
   'freelancelife',
-  'freelancework'
+  'freelancework',
+  'webdeveloper',
+  'code',
+  'javascript',
+  'developer',
+  'software',
 ]
 

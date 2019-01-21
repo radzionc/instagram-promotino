@@ -51,6 +51,8 @@ for tag in tags:
 usernames = [user['username'] for user in users]
 session.follow_users(usernames)
 stop_loop = False
+
+reached_number = 0
 for index, user in enumerate(users):
   if stop_loop: break
   print(index, ' : ', user['search_tag'], ' : ', user['username'])
@@ -64,10 +66,13 @@ for index, user in enumerate(users):
           'username': user['username'],
           'tags': user['tags']
         })
+        reached_number += 1
       elif action == 's':
         stop_loop = True
         
       break
+
+print('users reached: {0}'.format(reached_number))
 
 try:
   with open('state.json', 'w') as f:
