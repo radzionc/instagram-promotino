@@ -42,5 +42,19 @@ TAGS = [
   'javascript',
   'developer',
   'software',
+  'softwareengineer',
+  'computerscience',
+  'architecturestudents',
+  'architecturestudent',
+  'studentblogger',
+  'studentproject',
+  'internationalstudent',
+  'lawstudent',
+  'archistudent',
+  'sciencestudent',
+  'gradstudent',
+  'studentpreneur',
+  'phdstudent',
+  'studententrepreneur'
 ]
 
