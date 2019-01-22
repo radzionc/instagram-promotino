@@ -39,16 +39,22 @@ class Instagram(InstaPy):
 
   def follow_users(self, usernames):
     for username in usernames:
-      follow_user(self.browser, "profile", self.username, username, None, self.blacklist, self.logger, self.logfolder)
+      try:
+        follow_user(self.browser, "profile", self.username, username, None, self.blacklist, self.logger, self.logfolder)
+      except:
+        print('fail to follow @{0}'.format(username))
 
   def unfollow_users_list(self, usernames):
     for username in usernames:
-      unfollow_user(self.browser,
-                    "profile",
-                    self.username,
-                    username,
-                    None,
-                    None,
-                    self.relationship_data,
-                    self.logger,
-                    self.logfolder)
+      try:
+        unfollow_user(self.browser,
+                      "profile",
+                      self.username,
+                      username,
+                      None,
+                      None,
+                      self.relationship_data,
+                      self.logger,
+                      self.logfolder)
+      except:
+        print('fail to follow @{0}'.format(username))
