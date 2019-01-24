@@ -55,6 +55,8 @@ TAGS = [
   'gradstudent',
   'studentpreneur',
   'phdstudent',
-  'studententrepreneur'
+  'studententrepreneur',
+  'coderlife',
+  'engineeringstudent'
 ]
 
