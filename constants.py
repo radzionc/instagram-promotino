@@ -57,6 +57,12 @@ TAGS = [
   'phdstudent',
   'studententrepreneur',
   'coderlife',
-  'engineeringstudent'
+  'engineeringstudent',
+  'studytips',
+  'studylaw',
+  'todolist',
+  'enterpreneurbooks',
+  'mindsets',
+  'mindset'
 ]
 
