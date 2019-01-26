@@ -63,6 +63,10 @@ TAGS = [
   'todolist',
   'enterpreneurbooks',
   'mindsets',
-  'mindset'
+  'mindset',
+  'nerd',
+  'softwaredeveloper',
+  'frontend',
+  'js'
 ]
 
