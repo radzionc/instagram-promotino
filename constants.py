@@ -67,6 +67,11 @@ TAGS = [
   'nerd',
   'softwaredeveloper',
   'frontend',
-  'js'
+  'js',
+  'worldpostpublic',
+  'herseydendahacok',
+  'codinglife',
+  'coder',
+  'programminglife'
 ]
 
