@@ -72,6 +72,9 @@ TAGS = [
   'herseydendahacok',
   'codinglife',
   'coder',
-  'programminglife'
+  'programminglife',
+  'python',
+  'webdesigner',
+  'webdevelopment'
 ]
 
