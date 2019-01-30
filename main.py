@@ -11,6 +11,10 @@ from constants import TAGS
 with open('state.json') as f:
   state = json.load(f)
 
+username = os.environ.get('INSTAGRAM_USERNAME')
+if not username:
+  username = getpass.getpass('Username: ')
+
 # get parameters: password and number of peoples to reach
 password = os.environ.get('INSTAGRAM_PASSWORD')
 if not password:
@@ -21,7 +25,7 @@ if len(sys.argv) > 1 and sys.argv[1]:
   users_to_follow_number = int(sys.argv[1])
 
 # initialize session
-session = Instagram('geekrodion', password)
+session = Instagram(username, password)
 session.login()
 session.logger.setLevel(logging.WARNING)
 

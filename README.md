@@ -1,14 +1,29 @@
+# instagram-promotino
+> 
+
+![alt text](https://cdn-images-1.medium.com/max/800/1*ToCmk5bLr2tP47swAv6GOw.jpeg)
+
+## Install
+
 ```bash
-virtualenv venv
-source venv/bin/activate
-pip install git+https://github.com/timgrossmann/InstaPy.git
-latest_version=$(wget https://chromedriver.storage.googleapis.com/LATEST_RELEASE -O -)
-wget https://chromedriver.storage.googleapis.com/${latest_version}/chromedriver_linux64.zip
-unzip chromedriver_linux64
-assets_path=venv/lib/python3.6/site-packages/assets
-mkdir $assets_path
-chromedriver_path=$assets_path/chromedriver
-mv chromedriver $chromedriver_path
-chmod +x $chromedriver_path
-chmod 755 $chromedriver_path
+. ./prepare.sh
 ```
+
+## Usage
+If you want to bootstrap the initial state - go to the setup.py and fill lists with users:
+```bash
+python setup.py
+```
+Then specify hashtag in constants.py. To run the script:
+```bash
+python main.py
+```
+To get some analysis run:
+```bash
+python analyze.py
+```
+## [Story on Medium](https://medium.com/p/f15252249410/)
+
+## License
+
+MIT © [RodionChachura](https://geekrodion.com)
