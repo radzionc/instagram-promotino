@@ -79,6 +79,9 @@ TAGS = [
   'html',
   'css',
   'java',
-  'development'
+  'development',
+  'programmers',
+  'pythonprogramming',
+  'programmerlife'
 ]
 
