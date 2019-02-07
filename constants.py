@@ -82,6 +82,13 @@ TAGS = [
   'development',
   'programmers',
   'pythonprogramming',
-  'programmerlife'
+  'programmerlife',
+  'linux',
+  'geek',
+  'design',
+  'computer',
+  'studygram',
+  'worldcode',
+  'studynotes'
 ]
 
