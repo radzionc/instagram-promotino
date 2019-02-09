@@ -15477,6 +15477,187 @@
                 "#softwareengineering",
                 "#html5"
             ]
+        },
+        {
+            "username": "am_arquitectura1",
+            "tags": [
+                "#architecturephotography",
+                "#arquitetura",
+                "#designed",
+                "#architecturaldesigns",
+                "#sketshup3d",
+                "#arquiteturadesign",
+                "#archdesign",
+                "#decor",
+                "#architectureilike",
+                "#masion",
+                "#house",
+                "#buildings",
+                "#casa",
+                "#dise\u00f1o",
+                "#desing",
+                "#superhouse",
+                "#architecturelovers",
+                "#maturin",
+                "#furniture",
+                "#archidaily",
+                "#sketshup8",
+                "#monagas",
+                "#home",
+                "#architecturestudent",
+                "#architecturephotograpy",
+                "#vrayrendering",
+                "#apartments",
+                "#supervision",
+                "#vrayforsketchup",
+                "#vray"
+            ]
+        },
+        {
+            "username": "johnnyb_architect",
+            "tags": [
+                "#sketchup",
+                "#architecture",
+                "#architect",
+                "#rendering",
+                "#render3d",
+                "#revit",
+                "#3dsmax",
+                "#house",
+                "#home",
+                "#housing",
+                "#design",
+                "#proyect",
+                "#facade",
+                "#working",
+                "#art",
+                "#fachada",
+                "#construccion",
+                "#revit",
+                "#visualization",
+                "#minimalista",
+                "#minimalismo",
+                "#fotograf\u00eda",
+                "#Photography",
+                "#digital",
+                "#3d",
+                "#arquitectura",
+                "#minimalist",
+                "#lumion",
+                "#autocad3d",
+                "#architecturestudent",
+                "#architectureschool"
+            ]
+        },
+        {
+            "username": "yurivitalarquiteto",
+            "tags": []
+        },
+        {
+            "username": "scc.gcom",
+            "tags": [
+                "#graphicdesigner",
+                "#uxdesign",
+                "#uxuidesign",
+                "#uidesign",
+                "#userexperience",
+                "#userexperiencedesign",
+                "#uiuxdesign",
+                "#graphicdesignblog",
+                "#graphicdesignblg",
+                "#graphicdesignstudent",
+                "#graphicdesignuiweb",
+                "#webdesign",
+                "#webdesigner",
+                "#webdesignstudent",
+                "#gamedesign",
+                "#gamedesigner",
+                "#gamedesignstudent",
+                "#design",
+                "#designer",
+                "#designlife",
+                "#designprocess",
+                "#adobesuite",
+                "#designthinking",
+                "#saccitycollege",
+                "#sacramentocitycollege",
+                "#sccgcom",
+                "#gcomscc",
+                "#graphiccommunication",
+                "#designdaily",
+                "#graphicdesignschool"
+            ]
+        },
+        {
+            "username": "1design_school",
+            "tags": [
+                "#\u041b\u044e\u0431\u043b\u044e\u043d\u0435\u043c\u043e\u0433\u0443"
+            ]
+        },
+        {
+            "username": "franzescodesigns",
+            "tags": []
+        },
+        {
+            "username": "lucas.juhel",
+            "tags": [
+                "#designer",
+                "#uxdesign",
+                "#uidesign",
+                "#designinspiration",
+                "#designprocess",
+                "#ux",
+                "#ui",
+                "#experiencedesign",
+                "#userexperiencedesign",
+                "#uiuxdesign",
+                "#uxui",
+                "#uiux",
+                "#uxuidesigner",
+                "#designthinking",
+                "#designsystems",
+                "#designforlife",
+                "#designers",
+                "#designlife"
+            ]
+        },
+        {
+            "username": "joe_pal",
+            "tags": [
+                "#ui",
+                "#uidesign",
+                "#ux",
+                "#uxdesign",
+                "#javascript",
+                "#frontend",
+                "#reactjs"
+            ]
+        },
+        {
+            "username": "curiouser_travel",
+            "tags": [
+                "#travelbloggers",
+                "#streetphotography",
+                "#barcelonaspain",
+                "#barcelonaphotographer",
+                "#traveleurope",
+                "#romebloggers",
+                "#romablogger",
+                "#phototravelblogger",
+                "#mirrors",
+                "#photography",
+                "#studentblogger",
+                "#studyabroad",
+                "#studyabroadineurope",
+                "#studyinrome",
+                "#photographyinrome",
+                "#romeitaly",
+                "#barcelona"
+            ]
+        },
+        {
+            "username": "meetmontanna",
+            "tags": []
         }
     ],
     "ignored": [
@@ -15780,7 +15961,17 @@
         "lanestours",
         "utswnews",
         "tamkocareers",
-        "ptschoolmemes"
+        "ptschoolmemes",
+        "jonathanatos_travelstuff",
+        "mad_cadre",
+        "tylerantonia",
+        "odanewyork",
+        "sky_high_architecture",
+        "apperfect_apps",
+        "dope.dsgn",
+        "createwithflow",
+        "virtuallyyvogue",
+        "alternativelypop"
     ],
     "answered": [
         "stolinski",
@@ -15889,6 +16080,9 @@
         "athenatronics",
         "python_scripts",
         "thewanderpreneurs",
-        "jexicastudies"
+        "jexicastudies",
+        "vivplans",
+        "legallystudies",
+        "room_js"
     ]
 }
