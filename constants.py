@@ -89,6 +89,8 @@ TAGS = [
   'computer',
   'studygram',
   'worldcode',
-  'studynotes'
+  'studynotes',
+  '100daysofcode',
+  'codingdays'
 ]
 
