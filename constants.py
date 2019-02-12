@@ -44,8 +44,6 @@ TAGS = [
   'software',
   'softwareengineer',
   'computerscience',
-  'architecturestudents',
-  'architecturestudent',
   'studentblogger',
   'studentproject',
   'internationalstudent',
