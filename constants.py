@@ -83,12 +83,14 @@ TAGS = [
   'programmerlife',
   'linux',
   'geek',
-  'design',
   'computer',
   'studygram',
   'worldcode',
   'studynotes',
   '100daysofcode',
-  'codingdays'
+  'codingdays',
+  'codingbootcamp',
+  'canthurtme',
+  'atomichabits'
 ]
 
