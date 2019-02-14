@@ -30,3 +30,6 @@ for w in sorted(tags, key=tags.get, reverse=True):
     print('\x1b[6;30;42m' + string + '\x1b[0m')
   else:
     print(string)
+
+no_response_tags = set(TAGS) - set([ut[1:] for ut in unique_tags])
+print('0 responses: ', ', '.join(no_response_tags))
