@@ -63,7 +63,6 @@ TAGS = [
   'softwaredeveloper',
   'frontend',
   'js',
-  'worldpostpublic',
   'codinglife',
   'coder',
   'programminglife',
@@ -86,6 +85,7 @@ TAGS = [
   'codingdays',
   'codingbootcamp',
   'canthurtme',
-  'atomichabits'
+  'atomichabits',
+  'study'
 ]
 
