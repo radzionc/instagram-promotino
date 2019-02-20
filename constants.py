@@ -12,7 +12,6 @@ TAGS = [
   'studyingtips',
   'programmer',
   'university',
-  'itjobs',
   'geeklife',
   'digitalnomad',
   'digitalnomads',
