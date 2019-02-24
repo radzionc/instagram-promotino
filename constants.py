@@ -16,8 +16,6 @@ TAGS = [
   'digitalnomad',
   'digitalnomads',
   'digitalnomadlife',
-  'writingcommunity',
-  'udemy',
   'onlinebusiness',
   'learntocode',
   'learnprogramming',
@@ -85,6 +83,10 @@ TAGS = [
   'codingbootcamp',
   'canthurtme',
   'atomichabits',
-  'study'
+  'study',
+  'hustle',
+  'solopreneur',
+  'timewaitsfornoone',
+  'dontwastetime'
 ]
 
