@@ -14,7 +14,6 @@ TAGS = [
   'university',
   'geeklife',
   'digitalnomad',
-  'digitalnomads',
   'digitalnomadlife',
   'onlinebusiness',
   'learntocode',
