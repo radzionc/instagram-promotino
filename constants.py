@@ -86,6 +86,8 @@ TAGS = [
   'hustle',
   'solopreneur',
   'timewaitsfornoone',
-  'dontwastetime'
+  'dontwastetime',
+  'studyspo',
+  'studyinspo'
 ]
 
