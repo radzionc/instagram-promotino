@@ -72,7 +72,6 @@ TAGS = [
   'pythonprogramming',
   'programmerlife',
   'linux',
-  'geek',
   'computer',
   'studygram',
   'worldcode',
