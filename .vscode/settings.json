@@ -1,3 +1,9 @@
 {
-  "python.pythonPath": "venv/bin/python"
+  "python.pythonPath": "venv/bin/python",
+  "files.exclude": {
+    "*.pyc": true,
+    "__pycache__": true,
+    ".ipynb_checkpoints": true,
+    "venv": true
+  }
 }

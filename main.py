@@ -6,10 +6,14 @@ import sys
 import random
 
 from instagram import Instagram
-from constants import TAGS
+
 
 with open('state.json') as f:
   state = json.load(f)
+
+with open('config.json') as f:
+  config = json.load(f)
+  TAGS = config['tags']
 
 username = os.environ.get('INSTAGRAM_USERNAME')
 if not username:
@@ -88,3 +92,4 @@ except:
   print('find new state in new_state.json')
   
 session.unfollow_users_list(usernames)
+session.browser.close()
