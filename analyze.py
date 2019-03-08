@@ -20,12 +20,23 @@ tags = {}
 for ut in unique_tags:
   tags[ut] = len([t for t in all_tags if t == ut])
 
+all_possible_tags = []
+for r in reached:
+  all_possible_tags += r['tags']
+
+tags_number = {}
+for tag in all_possible_tags:
+  if tag in tags_number:
+    tags_number[tag] += 1
+  else:
+    tags_number[tag] = 1
+
 for w in sorted(tags, key=tags.get, reverse=True):
   number = tags[w]
   if number < 2: continue
   
   tag = w[1:]
-  string = '{0}: {1}'.format(tag, number)
+  string = '{0}: {1} {2:4.2f}'.format(tag, number, number /tags_number[w])
   if tag not in TAGS:
     print('\x1b[6;30;42m' + string + '\x1b[0m')
   else:
@@ -33,3 +44,5 @@ for w in sorted(tags, key=tags.get, reverse=True):
 
 no_response_tags = set(TAGS) - set([ut[1:] for ut in unique_tags])
 print('0 responses: ', ', '.join(no_response_tags))
+
+

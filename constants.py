@@ -13,7 +13,6 @@ TAGS = [
   'programmer',
   'university',
   'geeklife',
-  'digitalnomad',
   'digitalnomadlife',
   'onlinebusiness',
   'learntocode',
@@ -38,7 +37,6 @@ TAGS = [
   'softwareengineer',
   'computerscience',
   'studentproject',
-  'internationalstudent',
   'sciencestudent',
   'gradstudent',
   'studentpreneur',
@@ -84,6 +82,16 @@ TAGS = [
   'timewaitsfornoone',
   'dontwastetime',
   'studyspo',
-  'studyinspo'
+  'studyinspo',
+  'programmingisfun',
+  'machinelearning',
+  'datascience',
+  'pythonprogrammer',
+  'instastudy',
+  'pycoders',
+  'pythoncode',
+  'artificialintelligence',
+  'codingpics',
+  'thedevlife'
 ]
 
