@@ -24,7 +24,7 @@ password = os.environ.get('INSTAGRAM_PASSWORD')
 if not password:
   password = getpass.getpass('Password: ')
 
-users_to_follow_number = 15r
+users_to_follow_number = 15
 if len(sys.argv) > 1 and sys.argv[1]:
   users_to_follow_number = int(sys.argv[1])
 
