@@ -1,3 +1,8 @@
+import json
+import os
+import logging
+import getpass
+
 from instapy import InstaPy
 from instapy.unfollow_util import follow_user, unfollow_user
 from instapy.like_util import get_links_for_tag, check_link, get_tags, like_image
@@ -58,3 +63,24 @@ class Instagram(InstaPy):
                       self.logfolder)
       except:
         print('fail to follow @{0}'.format(username))
+
+def execute(func):
+  with open('config.json') as f:
+    config = json.load(f)
+
+  username = os.environ.get('INSTAGRAM_USERNAME')
+  if not username:
+    username = getpass.getpass('Username: ')
+
+  # get parameters: password and number of peoples to reach
+  password = os.environ.get('INSTAGRAM_PASSWORD')
+  if not password:
+    password = getpass.getpass('Password: ')
+
+  session = Instagram(username, password)
+  session.login()
+  session.logger.setLevel(logging.WARNING)
+
+  func(session, config)
+
+  session.browser.close()

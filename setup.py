@@ -16,3 +16,6 @@ state = {
 
 with open('state.json', 'w') as f:
   json.dump(state, f, indent=4)
+
+with open('influencers.json', 'w') as f:
+  json.dump({}, f, indent=4)
