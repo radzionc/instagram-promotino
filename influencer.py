@@ -41,6 +41,7 @@ def main(session, config):
           stop_loop = True
           
         break
+  print('Reached: ', len(state[influencer_name]['followers']))
   update_state(state)
 
 execute(main)
