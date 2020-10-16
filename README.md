@@ -22,7 +22,7 @@ To get some analysis run:
 ```bash
 python analyze.py
 ```
-## [Story on Medium](https://medium.com/p/f15252249410/)
+## [Blog post](https://geekrodion.com/blog/instagram-outreach)
 
 ## License
 
