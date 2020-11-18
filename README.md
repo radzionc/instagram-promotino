@@ -1,4 +1,5 @@
-# instagram-promotino
+# Instagram Promotino
+Half-automated Instagram cold outreach.
 > 
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*ToCmk5bLr2tP47swAv6GOw.jpeg)
